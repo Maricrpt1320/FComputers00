@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764125810772",
+    "firebase_url": "https://fcomputers-881bf.firebaseio.com",
+    "project_id": "fcomputers-881bf",
+    "storage_bucket": "fcomputers-881bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764125810772:android:ddd83dba3536d1800f5dc1",
+        "android_client_info": {
+          "package_name": "com.example.fcomputers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764125810772-o9m5th2h722g59q2c8oalkh3ch32v4j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB11TjKgST-M6xbcaC5JgVjYTDoNFcDZ98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764125810772-o9m5th2h722g59q2c8oalkh3ch32v4j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
